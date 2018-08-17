@@ -1,0 +1,17 @@
+[
+  "test_assert_exception.py::test_zero_division",
+  "test_assert_exception.py::test_recursion_depth",
+  "test_assert_exception.py::test_protocol",
+  "test_mock.py::test_ProdClass",
+  "test_python_exceptions.py::test_answer",
+  "test_python_exceptions.py::test_f",
+  "test_python_exceptions.py::test_raises_recursion_error",
+  "test_python_exceptions.py::test_needsfiles",
+  "test_python_exceptions.py::TestClass::()::test_one",
+  "test_python_exceptions.py::TestClass::()::test_two",
+  "test_simple_calculator.py::test_perform_addition_given_operands",
+  "test_simple_calculator.py::test_perform_substraction_given_operands",
+  "test_simple_calculator.py::test_perform_multiplication_given_operands",
+  "test_simple_calculator.py::test_perform_division_given_operands",
+  "test_simple_calculator.py::test_division_raises_ZeroDivisionError_given_divisor_as_zero"
+]
